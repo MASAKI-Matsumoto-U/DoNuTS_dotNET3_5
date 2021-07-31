@@ -2,6 +2,14 @@
 .NET3.5 以上で動作する,DoNuTS Form Application です．
 
 <dev>
+ <h2>DoNuTSについてはこちら
+  </h2>
+  <p>https://github.com/radmodel/DoNuTS</p>
+</dev>
+
+
+
+<dev>
 <b>
 Dependency
 </b>
@@ -22,7 +30,7 @@ main.exeを実行し，RDSRを読み込み，DBへ書き込む．
 <ul>
 DB参照，CSV出力.
 </ul>
-main.exeのSource Code は　https://github.com/msk822/DoNuTS/tree/with_VS/src
+main.exe及びout_csv.exeのSource Code は　https://github.com/msk822/DoNuTS/tree/with_VS/src
 です．
 </dev>
 <br>
