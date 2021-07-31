@@ -16,5 +16,8 @@ Windows7, 10 Pro/Home
 
 
 ver=0.0.0.3時点での仕様
+
 main.exeを実行し，RDSRを読み込み，DBへ書き込む．
+
 DB参照，CSV出力.
+
