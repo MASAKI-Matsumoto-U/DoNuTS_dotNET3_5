@@ -37,6 +37,8 @@ main.exe及びout_csv.exeのSource Code は　https://github.com/msk822/DoNuTS/t
 <br>
 <dev>
 <b>システム構成は以下の通り</b>
+ 
+ 
+![DoNuTS_System](https://user-images.githubusercontent.com/61895986/127757418-706abc8e-cfde-40cf-a509-4ea9523cfb5d.jpg)
 
-![DoNuTS_System](https://user-images.githubusercontent.com/61895986/127736671-c3f93c6a-604d-4ac4-8c55-688f78bd6d7c.jpg)
 </dev>
